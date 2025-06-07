@@ -1,7 +1,8 @@
 ---
 id: "faq-001-map-not-visible"
 title: "My map is not visible"
-tags: ["7d2d"]
+category: "7 Days to Die"
+tags: ["7d2d", "csmm"]
 sourceThreadIds: []
 createdAt: "2024-01-15T10:30:00Z"
 ---

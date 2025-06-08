@@ -1,0 +1,9 @@
+- [ ] Changing color of text chat
+- [ ] Hide commands in public chat (with hccp)
+- [ ] How do I protect safe area?
+- [ ] How do I set reset regions?
+- [ ] Where can I find cpm settings?
+- [ ] Why can't I connect my server to csmm?
+- [ ] How do I set automatic restarts?
+- [ ] Changing the color of the text of the server chat name
+- [ ] Setting up CPM protected lobbies.

@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "opensearch": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "opensearch-mcp-server"
+      ],
+      "env": {
+        "OPENSEARCH_HOSTS": "http://localhost:9200"
+      }
+    },
+    "csmm-docs": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://gitmcp.io/CatalysmsServerManager/docs"
+      ]
+    }
+  }
+}

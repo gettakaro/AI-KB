@@ -1,8 +1,20 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:docs.csmm.app)"
+      "WebFetch(domain:docs.csmm.app)",
+      "mcp__playwright__playwright_navigate",
+      "mcp__playwright__playwright_screenshot",
+      "mcp__playwright__playwright_get_visible_text",
+      "mcp__playwright__playwright_evaluate",
+      "mcp__playwright__playwright_click",
+      "Bash(mcp list-tools:*)",
+      "mcp__csmm-docs__search_docs_documentation",
+      "mcp__opensearch__search_documents"
     ],
     "deny": []
-  }
+  },
+  "enabledMcpjsonServers": [
+    "opensearch",
+    "csmm-docs"
+  ]
 }
